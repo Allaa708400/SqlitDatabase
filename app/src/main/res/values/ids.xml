@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_car_model" type="id">et_car_model</item>
+    <item name="et_car_color" type="id">et_car_color</item>
+    <item name="et_car_distansperletter" type="id">et_car_distansperletter</item>
+    <item name="btn_save" type="id">btn_save</item>
+</resources>
